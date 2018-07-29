@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Pondok Pesantren</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_list_ponpes">ListPonpesActivity</string>
+    <string name="title_activity_detail_pon_pes">DetailPonPesActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_all">MapsAllActivity</string>
+    <string name="title_activity_tentang">TentangActivity</string>
+    <string name="tentang">Mobile Gis Pondok Pesantren \n Kota dan Kabupaten Tegal \n
+    merupakan aplikasi untuk membantu pengguna dalam mencari lokasi pondok pesantren serta
+        daftar pondok pesantren dan informasi-informasinya seperti profil , agenda kegiatan dan syarat pendaftaran
+        yang ada pada masing-masing pondok pesantren di wilayah Tegal </string>
+    <string name="created">Created By \n  --Rizqi Ananda--</string>
+    <string name="title_activity_bantuan">BantuanActivity</string>
+    <string name="bantuan_list">Daftar Ponpes adalah halaman list semua pondok pesantren yang telah didaftarkan</string>
+    <string name="bantuan_maps">Maps Semua Ponpes adalah halaman yang menampilkan peta semua pondok pesantren yang telah didaftarkan</string>
+    <string name="batuan_bantu">Bantuan adalah halaman yang berisi penjelasan menu menu aplikasi</string>
+    <string name="batuan_tentang">Tentang adalah halaman yang menjelaskan tentang aplikasi</string>
+    <string name="bantuan_event">Event Terkini merupakan event event yang akan dilaksanakan dalam waktu dekat oleh pondok pesantren</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="title_activity_detail_profil">DetailProfilActivity</string>
+    <string name="title_activity_detail_kegiatan">DetailKegiatanActivity</string>
+    <string name="profil_fasilitas"><![CDATA[Profil & Fasilitas]]></string>
+</resources>

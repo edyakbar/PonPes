@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_action_list_ponpes"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_action_map_ponpes"
+            android:title="Peta Semua Ponpes" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_action_event_ponpes"
+            android:title="Event Terkini" />
+
+    </group>
+
+    <item android:title="Aplikasi">
+        <menu>
+
+            <item
+                android:id="@+id/bantuan"
+                android:icon="@drawable/ic_action_bantuan_ponpes"
+                android:title="Bantuan"
+                android:textColor="#FF0066CC"/>
+            <item
+                android:id="@+id/tentang"
+                android:icon="@drawable/ic_action_info"
+                android:title="Tentang"
+                android:textColor="#FF0066CC"/>
+            <item
+                android:id="@+id/daftar"
+                android:icon="@drawable/ic_action_name"
+                android:title="Daftarkan PonpesKu"
+                android:textColor="#FF0066CC"/>
+        </menu>
+    </item>
+
+</menu>
